@@ -56,9 +56,9 @@ header {
 }
 
 .hero img {
-    width: 100%;
+    width: 40%;
     height: auto;
-    background-color: grey;
+    padding: 20px;
 }
 
 h2 {
@@ -80,9 +80,10 @@ h2 {
 }
 
 .img-with-text img {
-    width: 100%;
+    width: 150px;
     height: auto;
-    padding: 20px;
+    object-fit: cover;
+    padding: 0;
     border-radius: 10px;
     border-color: #3882F6;
     border-width: 3px;
